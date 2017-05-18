@@ -1,21 +1,21 @@
 # How to install-nodejs on cloud
 
-step 1.
-Install node package manager by using advance package tool.
+Step 1.
+To install node package manager by using advance package tool.
 ![](https://raw.githubusercontent.com/sermsaksukprasert/install-nodejs/master/1.png)
 
-step 2.
-Type y = yes to accept to install advance package tool.
-![]()
+Step 2.
+To type y = yes to accept to install advance package tool.
+![](https://raw.githubusercontent.com/sermsaksukprasert/install-nodejs/master/2.png)
 
-step 3.
-Install node package manager n global.
-![]()
+Step 3.
+To install node package manager n global.
+![](https://raw.githubusercontent.com/sermsaksukprasert/install-nodejs/master/3.png)
 
-step 4.
-Install the latest version of package n.
-![]()
+Step 4.
+To install the latest version of package n.
+![](https://raw.githubusercontent.com/sermsaksukprasert/install-nodejs/master/4.png)
 
-step 5.
-Check the latest n version,Done.!!!
-![]()
+Step 5.
+To check the latest n version,Done.!!!
+![](https://raw.githubusercontent.com/sermsaksukprasert/install-nodejs/master/5.png)
