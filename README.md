@@ -2,7 +2,8 @@
 
 step 1.
 Install node package manager by using advance package tool.
-![](https://raw.githubusercontent.com/sermsaksukprasert/install-nodejs/blob/master/1.png
+
+![](https://raw.githubusercontent.com/sermsaksukprasert/1.png
 
 step 2.
 Type y = yes to accept to install advance package tool.
