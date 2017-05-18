@@ -1,7 +1,7 @@
 # How to install-nodejs on cloud
 
 step 1.
-Install advance package tool by node package manager.
+Install node package manager by advance package tool.
 
 step 2.
 Type y = yes to accept to install advance package tool.
